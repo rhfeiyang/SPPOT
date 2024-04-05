@@ -1,6 +1,8 @@
 # SP<sup>2</sup>OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering
 By [Chuyu Zhang*](https://scholar.google.com/citations?user=V7IktkcAAAAJ), [Hui Ren](https://rhfeiyang.github.io), and [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) 
 
+This repo contains the Pytorch implementation of our [paper](http://arxiv.org/abs/2404.03446).
+
 ## Installation
 ```shell
 git clone https://github.com/rhfeiyang/SPPOT.git
